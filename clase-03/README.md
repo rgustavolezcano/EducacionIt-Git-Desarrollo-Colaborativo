@@ -36,7 +36,7 @@ git add --patch
 * Referencias estáticas --> ramas, tags
 * Referencias dinamicas --> HEAD
 
-![referencias](_ref/refer.png)
+![referencias](href/refer.png)
 
 ## .gitignore
 Me va a permitir ignorar archivos. No guardar en el repositorio el archivo que coloque dentro del .gitignore
